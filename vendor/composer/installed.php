@@ -1,24 +1,24 @@
 <?php return array (
   'root' => 
   array (
-    'pretty_version' => '1.0.0+no-version-set',
-    'version' => '1.0.0.0',
+    'pretty_version' => 'dev-master',
+    'version' => 'dev-master',
     'aliases' => 
     array (
     ),
-    'reference' => NULL,
+    'reference' => 'caa11f5c31b52972ecda7328ff8f0c6ad83013db',
     'name' => 'barth/composer2',
   ),
   'versions' => 
   array (
     'barth/composer2' => 
     array (
-      'pretty_version' => '1.0.0+no-version-set',
-      'version' => '1.0.0.0',
+      'pretty_version' => 'dev-master',
+      'version' => 'dev-master',
       'aliases' => 
       array (
       ),
-      'reference' => NULL,
+      'reference' => 'caa11f5c31b52972ecda7328ff8f0c6ad83013db',
     ),
     'ehime/hello-world' => 
     array (
